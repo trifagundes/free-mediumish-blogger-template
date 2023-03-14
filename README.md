@@ -1,4 +1,4 @@
-# Free Mediumish Template Blogger Version
+#ADAPTAÇÃO Free Mediumish Template Blogger Version
 Mediumish - Free Bootstrap 4.0 HTML Template Medium Styled for Blogger.
 
 ## Live Preview
